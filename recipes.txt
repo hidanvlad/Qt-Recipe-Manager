@@ -1,0 +1,5 @@
+Fish and Chips, British, 45, White fish, Potatoes, Flour, Beer, Salt, Vegetable oil
+Beef Wellington, British, 120, Beef tenderloin, Puff pastry, Mushrooms, Prosciutto, Dijon mustard
+Sarmale, Romanian, 180, Cabbage leaves, Minced pork, Rice, Onion, Dill, Smoked bacon
+Mici, Romanian, 60, Minced beef, Minced pork, Garlic, Thyme, Paprika, Salt
+Sweet Chicken, Chinese, 30, Chicken, Soy sauce, Honey, Garlic, Ginger
